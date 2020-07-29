@@ -1,4 +1,4 @@
-# Hong-Kong_Pavilion:
+# Life_Typhoon_Pavilion:
 This pavilion was the final project for the course of design optioneering at Politecnico di Milano.
 
 # Story:
