@@ -1,4 +1,4 @@
-# Life_Typhoon_Pavilion:
+# Life Typhoon Pavilion:
 This pavilion was the final project for the course of design optioneering at Politecnico di Milano.
 
 # Story:
